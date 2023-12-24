@@ -1,0 +1,16 @@
+{
+  "name": "mandarinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "keylogger.js": "^0.0.4",
+    "robotjs": "^0.6.0"
+  }
+}
